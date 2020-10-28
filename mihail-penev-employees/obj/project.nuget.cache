@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "qMWGUTJ3E2QdtgTmkZVayMOac6lKm5GsF8ZNZvm6HqaeJLfwbg5lbU7GsJZ61Vng3Nj/b847dC4ZjGNLzgOrqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shinigami\\source\\repos\\mihail-penev-employees\\mihail-penev-employees\\mihail-penev-employees.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shinigami\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Shinigami\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shinigami\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shinigami\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shinigami\\.nuget\\packages\\system.data.odbc\\4.7.0\\system.data.odbc.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shinigami\\.nuget\\packages\\system.data.oledb\\4.7.1\\system.data.oledb.4.7.1.nupkg.sha512",
+    "C:\\Users\\Shinigami\\.nuget\\packages\\system.diagnostics.performancecounter\\4.7.0\\system.diagnostics.performancecounter.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shinigami\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shinigami\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shinigami\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shinigami\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shinigami\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shinigami\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
